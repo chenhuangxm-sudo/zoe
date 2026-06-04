@@ -8,106 +8,106 @@
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisBadge](01-基础组件.md#zoehisbadge) | badge |
-| [ZoehisButton](01-基础组件.md#zoehisbutton) | button |
-| [ZoehisDivider](01-基础组件.md#zoehisdivider) | divider |
-| [ZoehisSpinner](01-基础组件.md#zoehisspinner) | spinner |
-| [ZoehisTag](01-基础组件.md#zoehistag) | tag |
+| [ZoehisBadge（角标）](01-基础组件.md#zoehisbadge) | 角标 |
+| [ZoehisButton（按钮）](01-基础组件.md#zoehisbutton) | 按钮 |
+| [ZoehisDivider（分割线）](01-基础组件.md#zoehisdivider) | 分割线 |
+| [ZoehisSpinner（加载中）](01-基础组件.md#zoehisspinner) | 加载中 |
+| [ZoehisTag（标签）](01-基础组件.md#zoehistag) | 标签 |
 
 ### [表单组件](02-表单组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisAutocomplete](02-表单组件.md#zoehisautocomplete) | autocomplete |
-| [ZoehisCheckbox](02-表单组件.md#zoehischeckbox) | checkbox |
-| [ZoehisColorPicker](02-表单组件.md#zoehiscolorpicker) | color-picker |
-| [ZoehisInput](02-表单组件.md#zoehisinput) | input |
-| [zoehisInputNumber](02-表单组件.md#zoehisinputnumber) | input-number |
-| [ZoehisManuallyInput](02-表单组件.md#zoehismanuallyinput) | manually-input |
-| [ZoehisMultipleSelect](02-表单组件.md#zoehismultipleselect) | multiple-select |
-| [ZoehisRadio](02-表单组件.md#zoehisradio) | radio |
-| [ZoehisSelect](02-表单组件.md#zoehisselect) | select |
-| [ZoehisSlider](02-表单组件.md#zoehisslider) | slider |
-| [ZoehisSwitch](02-表单组件.md#zoehisswitch) | switch |
-| [ZoehisUpload](02-表单组件.md#zoehisupload) | upload |
+| [ZoehisAutocomplete（自动补全）](02-表单组件.md#zoehisautocomplete) | 自动补全 |
+| [ZoehisCheckbox（复选框）](02-表单组件.md#zoehischeckbox) | 复选框 |
+| [ZoehisColorPicker（颜色选择器）](02-表单组件.md#zoehiscolorpicker) | 颜色选择器 |
+| [ZoehisInput（输入框）](02-表单组件.md#zoehisinput) | 输入框 |
+| [zoehisInputNumber（数字输入框）](02-表单组件.md#zoehisinputnumber) | 数字输入框 |
+| [ZoehisManuallyInput（手动输入框）](02-表单组件.md#zoehismanuallyinput) | 手动输入框 |
+| [ZoehisMultipleSelect（多选下拉）](02-表单组件.md#zoehismultipleselect) | 多选下拉 |
+| [ZoehisRadio（单选框）](02-表单组件.md#zoehisradio) | 单选框 |
+| [ZoehisSelect（下拉选择）](02-表单组件.md#zoehisselect) | 下拉选择 |
+| [ZoehisSlider（滑块）](02-表单组件.md#zoehisslider) | 滑块 |
+| [ZoehisSwitch（开关）](02-表单组件.md#zoehisswitch) | 开关 |
+| [ZoehisUpload（上传）](02-表单组件.md#zoehisupload) | 上传 |
 
 ### [数据展示组件](03-数据展示组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisCalendar](03-数据展示组件.md#zoehiscalendar) | calendar |
-| [ZoehisDescriptions](03-数据展示组件.md#zoehisdescriptions) | descriptions |
-| [ZoehisEmpty](03-数据展示组件.md#zoehisempty) | empty |
-| [ZoehisList](03-数据展示组件.md#zoehislist) | list |
-| [ZoehisProgress](03-数据展示组件.md#zoehisprogress) | progress |
-| [ZoehisProgressPopup](03-数据展示组件.md#zoehisprogresspopup) | progress-popup |
-| [zoehisSimpleTable](03-数据展示组件.md#zoehissimpletable) | simple-table |
-| [ZoehisStatusCard](03-数据展示组件.md#zoehisstatuscard) | statusCard |
-| [ZoehisSteps](03-数据展示组件.md#zoehissteps) | steps |
-| [zoehisTable](03-数据展示组件.md#zoehistable) | table |
-| [ZoehisTimeline](03-数据展示组件.md#zoehistimeline) | timeline |
-| [ZoehisTree](03-数据展示组件.md#zoehistree) | tree |
+| [ZoehisCalendar（日历）](03-数据展示组件.md#zoehiscalendar) | 日历 |
+| [ZoehisDescriptions（描述列表）](03-数据展示组件.md#zoehisdescriptions) | 描述列表 |
+| [ZoehisEmpty（空状态）](03-数据展示组件.md#zoehisempty) | 空状态 |
+| [ZoehisList（列表）](03-数据展示组件.md#zoehislist) | 列表 |
+| [ZoehisProgress（进度条）](03-数据展示组件.md#zoehisprogress) | 进度条 |
+| [ZoehisProgressPopup（进度弹窗）](03-数据展示组件.md#zoehisprogresspopup) | 进度弹窗 |
+| [zoehisSimpleTable（简易表格）](03-数据展示组件.md#zoehissimpletable) | 简易表格 |
+| [ZoehisStatusCard（状态卡片）](03-数据展示组件.md#zoehisstatuscard) | 状态卡片 |
+| [ZoehisSteps（步骤条）](03-数据展示组件.md#zoehissteps) | 步骤条 |
+| [zoehisTable（表格）](03-数据展示组件.md#zoehistable) | 表格 |
+| [ZoehisTimeline（时间线）](03-数据展示组件.md#zoehistimeline) | 时间线 |
+| [ZoehisTree（树）](03-数据展示组件.md#zoehistree) | 树 |
 
 ### [反馈组件](04-反馈组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [directive](04-反馈组件.md#directive) | loading |
-| [ZoehisDialog](04-反馈组件.md#zoehisdialog) | dialog |
-| [ZoehisDrawer](04-反馈组件.md#zoehisdrawer) | drawer |
-| [ZoehisMessageBox](04-反馈组件.md#zoehismessagebox) | message-box |
-| [ZoehisPopover](04-反馈组件.md#zoehispopover) | popover |
-| [zoeMessage](04-反馈组件.md#zoemessage) | zoeMessage |
+| [ZoehisDialog（弹窗）](04-反馈组件.md#zoehisdialog) | 弹窗 |
+| [ZoehisDrawer（抽屉）](04-反馈组件.md#zoehisdrawer) | 抽屉 |
+| [ZoehisLoading（加载）](04-反馈组件.md#zoehisloading) | 加载 |
+| [ZoehisMessageBox（消息弹窗）](04-反馈组件.md#zoehismessagebox) | 消息弹窗 |
+| [ZoehisPopover（弹出框）](04-反馈组件.md#zoehispopover) | 弹出框 |
+| [zoeMessage（消息提示）](04-反馈组件.md#zoemessage) | 消息提示 |
 
 ### [导航组件](05-导航组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisDropdown](05-导航组件.md#zoehisdropdown) | dropdown |
-| [ZoehisMenu](05-导航组件.md#zoehismenu) | menu |
-| [ZoehisMenuGroup](05-导航组件.md#zoehismenugroup) | menu-group |
-| [ZoehisNavMenu](05-导航组件.md#zoehisnavmenu) | nav-menu |
-| [ZoehisPage](05-导航组件.md#zoehispage) | page |
-| [ZoehisTab](05-导航组件.md#zoehistab) | tab |
-| [ZoehisVerticalMenu](05-导航组件.md#zoehisverticalmenu) | vertical-menu |
+| [ZoehisDropdown（下拉菜单）](05-导航组件.md#zoehisdropdown) | 下拉菜单 |
+| [ZoehisMenu（菜单）](05-导航组件.md#zoehismenu) | 菜单 |
+| [ZoehisMenuGroup（菜单组）](05-导航组件.md#zoehismenugroup) | 菜单组 |
+| [ZoehisNavMenu（导航菜单）](05-导航组件.md#zoehisnavmenu) | 导航菜单 |
+| [ZoehisPage（分页）](05-导航组件.md#zoehispage) | 分页 |
+| [ZoehisTab（标签页）](05-导航组件.md#zoehistab) | 标签页 |
+| [ZoehisVerticalMenu（垂直菜单）](05-导航组件.md#zoehisverticalmenu) | 垂直菜单 |
 
 ### [布局组件](06-布局组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisAside](06-布局组件.md#zoehisaside) | aside |
-| [ZoehisBasePageLayout](06-布局组件.md#zoehisbasepagelayout) | page-layout |
-| [ZoehisColItem](06-布局组件.md#zoehiscolitem) | col-item |
-| [ZoehisContainer](06-布局组件.md#zoehiscontainer) | container |
-| [ZoehisFooter](06-布局组件.md#zoehisfooter) | footer |
-| [ZoehisHeader](06-布局组件.md#zoehisheader) | header |
-| [zoehisMain](06-布局组件.md#zoehismain) | main |
-| [ZoehisPartition](06-布局组件.md#zoehispartition) | partition |
-| [ZoehisRowSearch](06-布局组件.md#zoehisrowsearch) | row |
+| [ZoehisAside（侧边栏）](06-布局组件.md#zoehisaside) | 侧边栏 |
+| [ZoehisBasePageLayout（页面布局）](06-布局组件.md#zoehisbasepagelayout) | 页面布局 |
+| [ZoehisColItem（列项）](06-布局组件.md#zoehiscolitem) | 列项 |
+| [ZoehisContainer（容器）](06-布局组件.md#zoehiscontainer) | 容器 |
+| [ZoehisFooter（底部）](06-布局组件.md#zoehisfooter) | 底部 |
+| [ZoehisHeader（头部）](06-布局组件.md#zoehisheader) | 头部 |
+| [zoehisMain（主体）](06-布局组件.md#zoehismain) | 主体 |
+| [ZoehisPartition（分区）](06-布局组件.md#zoehispartition) | 分区 |
+| [ZoehisRowSearch（行）](06-布局组件.md#zoehisrowsearch) | 行 |
 
 ### [日期选择组件](07-日期选择组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisDateBtn](07-日期选择组件.md#zoehisdatebtn) | datepicker |
-| [ZoehisDateEditor](07-日期选择组件.md#zoehisdateeditor) | date-editor |
-| [ZoehisMonthPanel](07-日期选择组件.md#zoehismonthpanel) | monthpicker |
-| [ZoehisNewDatePanel](07-日期选择组件.md#zoehisnewdatepanel) | newDatepicker |
-| [ZoehisQuarterPicker](07-日期选择组件.md#zoehisquarterpicker) | quarter-picker |
-| [ZoehisTimePicker](07-日期选择组件.md#zoehistimepicker) | time-picker |
+| [ZoehisDateBtn（日期选择）](07-日期选择组件.md#zoehisdatebtn) | 日期选择 |
+| [ZoehisDateEditor（日期编辑）](07-日期选择组件.md#zoehisdateeditor) | 日期编辑 |
+| [ZoehisMonthPanel（月份选择）](07-日期选择组件.md#zoehismonthpanel) | 月份选择 |
+| [ZoehisNewDatePanel（新版日期选择）](07-日期选择组件.md#zoehisnewdatepanel) | 新版日期选择 |
+| [ZoehisQuarterPicker（季度选择）](07-日期选择组件.md#zoehisquarterpicker) | 季度选择 |
+| [ZoehisTimePicker（时间选择）](07-日期选择组件.md#zoehistimepicker) | 时间选择 |
 
 ### [其他组件](08-其他组件.md)
 
 | 组件名 | 说明 |
 |--------|------|
-| [ZoehisBackTop](08-其他组件.md#zoehisbacktop) | backTop |
-| [ZoehisCascader](08-其他组件.md#zoehiscascader) | cascader |
-| [ZoehisCollapse](08-其他组件.md#zoehiscollapse) | collapse |
-| [ZoehisDraggableResizable](08-其他组件.md#zoehisdraggableresizable) | draggable-resizable |
-| [ZoehisForm](08-其他组件.md#zoehisform) | form |
-| [ZoehisFunc](08-其他组件.md#zoehisfunc) | func |
-| [ZoehisImgPreview](08-其他组件.md#zoehisimgpreview) | img-preview |
-| [ZoehisTransfer](08-其他组件.md#zoehistransfer) | transfer |
+| [ZoehisBackTop（回到顶部）](08-其他组件.md#zoehisbacktop) | 回到顶部 |
+| [ZoehisCascader（级联选择）](08-其他组件.md#zoehiscascader) | 级联选择 |
+| [ZoehisCollapse（折叠面板）](08-其他组件.md#zoehiscollapse) | 折叠面板 |
+| [ZoehisDraggableResizable（拖拽缩放）](08-其他组件.md#zoehisdraggableresizable) | 拖拽缩放 |
+| [ZoehisForm（表单）](08-其他组件.md#zoehisform) | 表单 |
+| [ZoehisFunc（功能）](08-其他组件.md#zoehisfunc) | 功能 |
+| [ZoehisImgPreview（图片预览）](08-其他组件.md#zoehisimgpreview) | 图片预览 |
+| [ZoehisTransfer（穿梭框）](08-其他组件.md#zoehistransfer) | 穿梭框 |
 
 ## 自定义指令
 
